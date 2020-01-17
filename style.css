@@ -61,11 +61,17 @@ body {
 }
 
 .card-link {
-    color: #145E8C;
+    color: white;
+    background-color: #BF4C41;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 13px;
 }
 
-a:hover {
-    color: #F28379;
+.card-link:hover {
+    text-decoration: none;
+    background: #F28379;
+    color: white;
 }
 
 .negrilla {
