@@ -1,0 +1,78 @@
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.img {
+    float: left;
+    margin-top: 10px;
+}
+
+.titulo {
+    color: #092140;
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.sombra {
+    box-shadow: 0 0 8px black;
+    margin-bottom: 50px;
+}
+
+.margintop {
+    margin-top: 80px;
+}
+
+.margintop50 {
+    margin-top: 50px;
+}
+
+.amenaza {
+    width: 286px;
+    height: 381px;
+}
+
+.tiempo {
+    width: 286px;
+    height: 381px;
+}
+
+.amenazasl {
+    width: 1440px;
+    height: 276px;
+}
+
+.left {
+    margin-left: opx;
+    ;
+}
+
+.colort {
+    color: #092140;
+    font-weight: bold;
+}
+
+.sinopsis {
+    height: 200px;
+    overflow: scroll;
+}
+
+.card {
+    border-color: #145E8C;
+}
+
+.card-link {
+    color: #145E8C;
+}
+
+a:hover {
+    color: #F28379;
+}
+
+.negrilla {
+    font: bold 12px;
+}
+
+.columna {
+    display: flex;
+    justify-content: center;
+}
